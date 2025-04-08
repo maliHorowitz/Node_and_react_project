@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "part2", "part2\part2.csproj", "{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherSolution", "AnotherSolution\AnotherSolution.csproj", "{74A39574-732B-4FC3-BD4B-160BB1C5DEE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solution_for_parquet_file", "solution_for_parquet_file\solution_for_parquet_file.csproj", "{3B4E2F56-EB54-4732-8C9A-F7EC78E26218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A39574-732B-4FC3-BD4B-160BB1C5DEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A39574-732B-4FC3-BD4B-160BB1C5DEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A39574-732B-4FC3-BD4B-160BB1C5DEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A39574-732B-4FC3-BD4B-160BB1C5DEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4E2F56-EB54-4732-8C9A-F7EC78E26218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4E2F56-EB54-4732-8C9A-F7EC78E26218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4E2F56-EB54-4732-8C9A-F7EC78E26218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4E2F56-EB54-4732-8C9A-F7EC78E26218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}|part2\\part2.csproj|c:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\part2\\parquetfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}|part2\\part2.csproj|solutionrelative:part2\\parquetfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}|part2\\part2.csproj|c:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}|part2\\part2.csproj|solutionrelative:part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}|part2\\part2.csproj|c:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\part2\\cvsfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}|part2\\part2.csproj|solutionrelative:part2\\cvsfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}|part2\\part2.csproj|c:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\part2\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2099EC1F-8F7D-4D73-98F1-86DFD128F4E0}|part2\\part2.csproj|solutionrelative:part2\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PARQUETFile.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\part2\\PARQUETFile.cs",
+              "RelativeDocumentMoniker": "part2\\PARQUETFile.cs",
+              "ToolTip": "C:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\part2\\PARQUETFile.cs",
+              "RelativeToolTip": "part2\\PARQUETFile.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:22:43.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CVSFile.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\part2\\CVSFile.cs",
+              "RelativeDocumentMoniker": "part2\\CVSFile.cs",
+              "ToolTip": "C:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\part2\\CVSFile.cs",
+              "RelativeToolTip": "part2\\CVSFile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:22:21.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileHandler.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\part2\\IFileHandler.cs",
+              "RelativeDocumentMoniker": "part2\\IFileHandler.cs",
+              "ToolTip": "C:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\part2\\IFileHandler.cs",
+              "RelativeToolTip": "part2\\IFileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:18:42.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\part2\\Program.cs",
+              "RelativeDocumentMoniker": "part2\\Program.cs",
+              "ToolTip": "C:\\\u05DE\u05DC\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E8\u05D2\u05D9\u05DC  \u05D1\u05D9\u05EA\\part2\\part2\\Program.cs",
+              "RelativeToolTip": "part2\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:18:28.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

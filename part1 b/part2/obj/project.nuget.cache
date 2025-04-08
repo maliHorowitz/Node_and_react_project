@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UYf46RVWLOw=",
+  "success": true,
+  "projectFilePath": "C:\\מלי\\תכנות\\תרגיל  בית\\part2\\part2\\part2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\ironcompress\\1.6.3\\ironcompress.1.6.3.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\parquet.net\\5.1.1\\parquet.net.5.1.1.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\snappier\\1.1.6\\snappier.1.1.6.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\zstdsharp.port\\0.8.1\\zstdsharp.port.0.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\bin\Debug\net8.0\AnotherSolution.exe
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\bin\Debug\net8.0\AnotherSolution.deps.json
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\bin\Debug\net8.0\AnotherSolution.runtimeconfig.json
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\bin\Debug\net8.0\AnotherSolution.dll
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\bin\Debug\net8.0\AnotherSolution.pdb
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\obj\Debug\net8.0\AnotherSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\obj\Debug\net8.0\AnotherSolution.AssemblyInfoInputs.cache
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\obj\Debug\net8.0\AnotherSolution.AssemblyInfo.cs
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\obj\Debug\net8.0\AnotherSolution.csproj.CoreCompileInputs.cache
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\obj\Debug\net8.0\AnotherSolution.dll
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\obj\Debug\net8.0\refint\AnotherSolution.dll
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\obj\Debug\net8.0\AnotherSolution.pdb
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\obj\Debug\net8.0\AnotherSolution.genruntimeconfig.cache
+C:\מלי\תכנות\תרגיל  בית\part2\AnotherSolution\obj\Debug\net8.0\ref\AnotherSolution.dll

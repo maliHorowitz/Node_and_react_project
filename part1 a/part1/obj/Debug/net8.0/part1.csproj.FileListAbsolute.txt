@@ -1,0 +1,14 @@
+C:\מלי\תכנות\תרגיל  בית\part1\part1\bin\Debug\net8.0\part1.exe
+C:\מלי\תכנות\תרגיל  בית\part1\part1\bin\Debug\net8.0\part1.deps.json
+C:\מלי\תכנות\תרגיל  בית\part1\part1\bin\Debug\net8.0\part1.runtimeconfig.json
+C:\מלי\תכנות\תרגיל  בית\part1\part1\bin\Debug\net8.0\part1.dll
+C:\מלי\תכנות\תרגיל  בית\part1\part1\bin\Debug\net8.0\part1.pdb
+C:\מלי\תכנות\תרגיל  בית\part1\part1\obj\Debug\net8.0\part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\מלי\תכנות\תרגיל  בית\part1\part1\obj\Debug\net8.0\part1.AssemblyInfoInputs.cache
+C:\מלי\תכנות\תרגיל  בית\part1\part1\obj\Debug\net8.0\part1.AssemblyInfo.cs
+C:\מלי\תכנות\תרגיל  בית\part1\part1\obj\Debug\net8.0\part1.csproj.CoreCompileInputs.cache
+C:\מלי\תכנות\תרגיל  בית\part1\part1\obj\Debug\net8.0\part1.dll
+C:\מלי\תכנות\תרגיל  בית\part1\part1\obj\Debug\net8.0\refint\part1.dll
+C:\מלי\תכנות\תרגיל  בית\part1\part1\obj\Debug\net8.0\part1.pdb
+C:\מלי\תכנות\תרגיל  בית\part1\part1\obj\Debug\net8.0\part1.genruntimeconfig.cache
+C:\מלי\תכנות\תרגיל  בית\part1\part1\obj\Debug\net8.0\ref\part1.dll
